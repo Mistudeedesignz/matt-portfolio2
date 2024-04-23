@@ -1,0 +1,36 @@
+# Ignore system directories
+Application\ Data/
+Cookies/
+Local\ Settings/
+My\ Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start\ Menu/
+Templates/
+
+# Ignore specific files
+.lesshst
+.node_repl_history
+.gitconfig
+.gitignore
+.ssh/
+.vscode/
+ntuser.dat*
+package-lock.json
+package.json
+battery-report.html
+
+# Ignore entire directories
+Contacts/
+Desktop/
+Downloads/
+Favorites/
+IntelGraphicsProfiles/
+Links/
+Music/
+OneDrive/
+Saved\ Games/
+Searches/
+Videos/
